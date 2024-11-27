@@ -7,9 +7,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <div className="hello-world">
+      <h1>
         Hello, World!
-      </div>
+      </h1>
     </div>
   );
 }
